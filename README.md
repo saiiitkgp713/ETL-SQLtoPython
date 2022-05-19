@@ -1,4 +1,4 @@
-# ETL-SQLtoPython
+# Pipeline-SQLtoPython
 In the Process of ETL we transport data from one environement to the other for various purposes. The file provided "SQL to Python.ipynb" contains a python implementation of data transport from SQL server to the python environment. 
 
 Prenote:
